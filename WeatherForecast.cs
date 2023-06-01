@@ -1,5 +1,6 @@
 namespace weatherforecast
 {
+    //this is the model
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
